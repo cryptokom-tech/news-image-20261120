@@ -13,14 +13,14 @@ the image alone.
 
 ## The stories
 
-The morning edition, researched on 20 November 2026 from AP,
-USA Today, the Washington Examiner, The Hindu BusinessLine, the India
-Meteorological Department and other wire round-ups — only events that
-happened, or were first reported, on 20 November 2026. Leading
-stories: Anthropic's record $107.3bn IPO, Cyclone Akvan's landfall in
-Odisha, the Trump–Xi–Putin four-point peace declaration, the ICJ's
-Myanmar genocide ruling, and the South Korea top court's acquittal of
-ex-PM Han Duck-soo.
+The full-day edition, researched across 20 November 2026 from the
+One Turn day page, Just Security Early Edition, AP, BBC and The Hindu
+reporting via those digests, ATP Tour results and the Jagran Josh
+21 November round-up — only events that happened, or were first
+reported, on 20 November 2026. Leading stories: Anthropic's record
+$81.3bn IPO, the Shenzhen peace declaration signed by Trump, Xi and
+Putin, the ICJ's Myanmar genocide ruling, the Houthi strike on Riyadh
+and Russia's overnight strike on Kyiv.
 
 ## The program
 

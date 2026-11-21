@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Front-page summary image for Friday 20 November 2026.
+"""Front-page summary image for Friday 20 November 2026 (full-day edition).
 
-Copies the bundled entry.png (36 numbered world-news stories plus a
-dotted world map with numbered pins) to /output/entry.png. The copy is
-checked before it is written: the PNG signature, the 1 MiB size limit,
-and a byte-for-byte comparison of what was written against the bundle.
+Copies the bundled entry.png — 36 numbered world-news stories from the
+full day of 20 November 2026, plus a dotted world map with a numbered
+pin for each story — to /output/entry.png. The copy is checked before
+it is written: the PNG signature, the 1 MiB size limit, and a
+byte-for-byte comparison of what was written against the bundle.
 Deterministic: both runs write exactly the same bytes.
 
 The bundled image was rendered from 36 researched stories of the day
